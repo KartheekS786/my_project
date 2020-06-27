@@ -1,0 +1,6 @@
+body {
+  background:url("../../img/wave1.svg") right bottom no-repeat;
+  background-size:30px 30px auto ;
+  background-attachment: fixed;
+
+}
